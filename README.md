@@ -4,4 +4,4 @@
 
 ## Три варианта набора данных в виде JSON
 
-[text](https://gist.github.com/MSI-90/21bb5077b19679f100bb2a2e50890e12)
+https://gist.github.com/MSI-90/21bb5077b19679f100bb2a2e50890e12
